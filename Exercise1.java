@@ -1,5 +1,3 @@
-package Chapter5HW;
-
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
